@@ -72,8 +72,8 @@ Sample prediction on unseen test image:
 ---
 
 ## 👥 Team Members
-- Your Name
-- Teammate Name
+- Raga Amirtha.A
+- Bumeeswar.S
 
 ---
 
