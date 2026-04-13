@@ -79,6 +79,15 @@ Sample prediction on unseen test image:
 
 ---
 
+## 📂 Folder Structure Explanation
+
+- notebooks: contains all model development files  
+- outputs: contains model and graphs  
+- docs: contains PPT and documents  
+- report: contains final report
+
+---
+
 ## 👥 Team Members
 - Raga Amirtha.A
 - Bumeeswar.S
